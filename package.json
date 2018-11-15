@@ -1,0 +1,27 @@
+{
+  "name": "next-music",
+  "version": "1.0.0",
+  "description": "app to upload and listen music",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitudeka/next_music.git"
+  },
+  "author": "nitudeka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitudeka/next_music/issues"
+  },
+  "homepage": "https://github.com/nitudeka/next_music#readme"
+}
